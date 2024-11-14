@@ -7,5 +7,5 @@ This project focuses on understanding the basics of Docker, covering installatio
 
 - Creating and Managing Containers: Using the official Docker tutorial, we learned how to create, run, and manage containers.
 
-### Output
+## Output
 ![image](https://github.com/user-attachments/assets/377594cd-fd80-4e31-b320-a411450e93b0)
